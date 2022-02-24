@@ -4,72 +4,7 @@ body{
     background-attachment: fixed;
     font-family: Verdana, "Arial Black", Arial, Verdana, sans-serif;
 }
-.photo{
-    max-width: 121px;
-    margin-left: auto;
-    margin-right: auto;
-    }
-header{
-        display: flex;
-        flex-direction: row;
-        max-width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-        }
-.desc-pro {
-            display: grid;
-            grid-template-columns: auto auto;
-          }
-.section31 {
-            display: grid;
-            grid-template-columns: auto auto;
 
-}          
-.section32 {
-    display: grid;
-    grid-template-columns: auto auto;
-} 
-.section33 {
-    display: grid;
-    grid-template-columns: auto auto;
-} 
-/*.section41 {*/
-/*    display: grid;*/
-/*    grid-template-columns: auto auto auto;*/
-/*}*/
-/*.section41   > div {*/
-/*    */
-/*    text-align: center;*/
-/*    padding: 20px 0;*/
-/*    font-size: 15px;*/
-/*}*/
-/*.section41   > div {*/
-/*    */
-/*    text-align: center;*/
-/*    padding: 20px 0;*/
-/*    font-size: 15px;*/
-/*}*/
-
-/*.section42 {*/
-/*        display: grid;*/
-/*        grid-template-columns : auto auto auto;*/
-/*}*/
-/*.section42   > div {*/
-/*        */
-/*        text-align: center;*/
-/*        padding: 10px 0;*/
-/*        font-size: 15px;*/
-/*}*/
-/*.section43 {*/
-/*    display: grid;*/
-/*    grid-template-columns: auto auto auto;*/
-/*}*/
-/*.section43   > div {*/
-/*    */
-/*    text-align: center;*/
-/*    padding: 10px 0;*/
-/*    font-size: 10px;*/
-/*}*/
 h2 {
     margin-bottom: 1em;
     background-color: rgb(116, 136, 177);
